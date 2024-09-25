@@ -35,16 +35,3 @@
 ### 📫 How to reach me
 - **Email**: [your-email@example.com](mailto:dineshkhawas123@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dinesh-khawas-062aa021b/)
-
----
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-### ⚡ Fun Fact
-I love learning new tech and automating things to make life easier for developers. 
-
