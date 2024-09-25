@@ -2,7 +2,6 @@
 
 👨‍💻 I'm a **Junior Backend Developer** passionate about building efficient and scalable web applications. I specialize in backend technologies and have experience working with various frameworks, ORMs, and databases.
 
----
 
 ### 🔧 Technologies & Tools
 
@@ -16,15 +15,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
----
-
 ### 💼 What I Do
-- **Backend Development**: Working on backend services using **Node.js** and **Express.js**.
+- **Backend Development**: Working on backend services using **Node.js**,  **Express.js** and **Typescript**.
 - **Database Management**: Building and managing relational databases with **PostgreSQL**.
 - **ORM Expertise**: Using **PrismaORM** for database interaction and seamless development workflows.
 - **Frontend Integration**: Utilizing **HTML5**, **CSS3**, and **TailwindCSS** to support front-end needs.
 
----
 
 ### 🌱 Currently Learning
 - Advanced **API development** and **microservices architecture**.
