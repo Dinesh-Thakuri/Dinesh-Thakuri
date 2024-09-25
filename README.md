@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dinesh!
 
-👨‍💻 I'm a **Junior Backend Developer** passionate about building efficient and scalable web applications. I specialize in backend technologies and have experience working with various frameworks, ORMs, and databases.
+👨‍💻 I'm a ** Backend Developer** passionate about building efficient and scalable web applications. I specialize in backend technologies and have experience working with various frameworks, ORMs, and databases.
 
 
 ### 🔧 Technologies & Tools
