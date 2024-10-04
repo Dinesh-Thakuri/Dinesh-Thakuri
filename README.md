@@ -15,18 +15,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### 💼 What I Do
-- **Backend Development**: Working on backend services using **Node.js**,  **Express.js** and **Typescript**.
-- **Database Management**: Building and managing relational databases with **PostgreSQL**.
-- **ORM Expertise**: Using **PrismaORM** for database interaction and seamless development workflows.
-- **Frontend Integration**: Utilizing **HTML5**, **CSS3**, and **TailwindCSS** to support front-end needs.
 
-
-### 🌱 Currently Learning
-- Advanced **API development** and **microservices architecture**.
-- Continuous Integration/Continuous Deployment (CI/CD) practices.
-
----
 
 ### 📫 How to reach me
 - **Email**: [your-email@example.com](mailto:dineshkhawas123@gmail.com)
